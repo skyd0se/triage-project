@@ -1,0 +1,11 @@
+timestamp_utc,category,label,mitre,detail
+2026-10-10T04:34:22.108700+00:00,bruteforce,attack,T1110,"user=Admin, attempts=7"
+2026-10-10T04:34:33.349604+00:00,benign_web,fp,,normal request to /robots.txt
+2026-10-10T04:34:59.125642+00:00,bruteforce,attack,T1110,"user=admin, attempts=10"
+2026-10-10T04:35:07.549167+00:00,web_attack,attack,T1595,"scan 8 paths, UA=Mozilla/5.0 (compatible; Nmap Scripting Engine)"
+2026-10-10T04:35:20.035750+00:00,user_creation,attack,T1136.001,username=temp_contractor520
+2026-10-10T04:35:32.746586+00:00,benign_web,fp,,normal request to /favicon.ico
+2026-10-10T04:35:46.658858+00:00,web_attack,attack,T1595,"scan 17 paths, UA=dirb 2.22"
+2026-10-10T04:35:56.550142+00:00,app_error,fp,,"source=MyAppError, eventid=1001"
+2026-10-10T04:36:20.057529+00:00,bruteforce,attack,T1110,"user=Admin, attempts=10"
+2026-10-10T04:36:32.592377+00:00,benign_web,fp,,normal request to /favicon.ico
